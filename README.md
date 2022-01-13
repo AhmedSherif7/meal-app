@@ -10,7 +10,7 @@ You can alse change the app theme between light and dark, and choose the app col
 
 The app supports Arabic and English languages, which you can switch between them without restarting the app.
 
-used packages:
-    provider,
-    shared preferences,
+used packages:  
+    provider,  
+    shared preferences,  
     flutter color picker.
